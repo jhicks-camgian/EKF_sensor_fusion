@@ -1,5 +1,4 @@
-# Project 1: Extended Kalman Filter 
-
+# Extended Kalman Filter for Lidar and Radar Fusion
 
 ## C++ IDE and Dependencies
 
@@ -14,7 +13,7 @@ The Udacity dependencies require the following:
 * make >= v4.1
 * gcc/g++ >= v5.4
 
-## Files Submitted
+## Files in the directory
 All the submitted files are included in two directory: \src and \build
 
 In the \src directory, the following key files are included:
